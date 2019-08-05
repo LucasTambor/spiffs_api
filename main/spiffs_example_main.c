@@ -6,6 +6,8 @@
    CONDITIONS OF ANY KIND, either express or implied.
 */
 
+// TODO append(), peek(), convert() ...
+
 #include <stdio.h>
 #include <string.h>
 #include <sys/unistd.h>
