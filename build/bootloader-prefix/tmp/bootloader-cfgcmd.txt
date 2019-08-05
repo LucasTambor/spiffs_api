@@ -1,1 +1,0 @@
-cmd='C:/Users/lucas/.espressif/tools/cmake/3.13.4/bin/cmake.exe;-DSDKCONFIG=C:/Users/lucas/Documents/projects/spiffs/sdkconfig;-DIDF_PATH=C:/Users/lucas/esp-idf;-DEXTRA_COMPONENT_DIRS=C:/Users/lucas/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
